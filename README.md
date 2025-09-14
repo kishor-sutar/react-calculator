@@ -37,3 +37,7 @@ This project demonstrates the use of React components, state management, and eve
 
 ## 📂 Project Structure
 
+
+<img width="237" height="538" alt="image" src="https://github.com/user-attachments/assets/ea598e37-773b-4d3b-a275-06e3ff17c199" />
+
+
